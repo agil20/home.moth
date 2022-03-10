@@ -7,20 +7,20 @@ namespace moth_
         static void Main(string[] args)
         {
             Console.WriteLine("Aynizi daxil edin");
-            int month = Convert.ToInt32(Console.ReadLine());
+            string month = Console.ReadLine();
             switch (month)
-            { case 1:
-                case 2:
-                case 12: Console.WriteLine("qis ayidir"); break;
-                    case 3:
-                case 4:
-                    case 5: Console.WriteLine("yaz ayidir"); break;
-                case 6:
-                    case 7:
-                case 8: Console.WriteLine("yay ayidir"); break ;
-                    case 9:
-                        case 10:
-                case 11: Console.WriteLine("payiz ayidir");
+            { case "Yanvar":
+                case "Fevral":
+                case "Dekabr": Console.WriteLine("qis ayidir"); break;
+                    case "Mart":
+                case "Aprel":
+                    case "May": Console.WriteLine("yaz ayidir"); break;
+                case "Iyun":
+                    case "Iyul":
+                case "Avqust": Console.WriteLine("yay ayidir"); break ;
+                    case "sentyabr":
+                        case "Oktaybr":
+                case "Noyabr": Console.WriteLine("payiz ayidir");
                     break;
                 default:
                     Console.WriteLine("bele bir ay yoxdur");

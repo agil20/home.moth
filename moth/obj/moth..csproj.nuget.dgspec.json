@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\moth.home\\moth\\moth\\moth..csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\home.moth\\moth\\moth..csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\moth.home\\moth\\moth\\moth..csproj": {
+    "C:\\Users\\User\\Source\\Repos\\home.moth\\moth\\moth..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\moth.home\\moth\\moth\\moth..csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\home.moth\\moth\\moth..csproj",
         "projectName": "moth.",
-        "projectPath": "C:\\Users\\User\\Desktop\\moth.home\\moth\\moth\\moth..csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\home.moth\\moth\\moth..csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\moth.home\\moth\\moth\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\home.moth\\moth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
